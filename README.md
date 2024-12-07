@@ -53,7 +53,7 @@ CREATE TABLE player_locations (
 
 ## Usage
 - If `SpawnAlwaysInLastLocation` is `true`, players will spawn at their last known location.
-- If `SpawnAlwaysInLastLocation` is `false`, players will spawn at the fallback location specified in `AutoSpawnCoords`.
+- If `SpawnAlwaysInLastLocation` is `false`, players will spawn at the configured location specified in `AutoSpawnCoords`.
 
 ### Example Workflow
 1. When a player disconnects, their last location is automatically saved in the database.

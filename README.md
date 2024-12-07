@@ -1,4 +1,4 @@
-# Daniel-LastLocation Resource
+# Daniel-LastLocation
 
 ## Overview
 This resource handles player spawning in FiveM, allowing players to either:

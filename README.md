@@ -3,13 +3,13 @@
 ## Overview
 This resource handles player spawning in FiveM, allowing players to either:
 - Spawn at their last known location.
-- Spawn at a predefined fallback location.
+- Spawn at a predefined location.
 
 ---
 
 ## Features
 - Spawn at last known location.
-- Configurable fallback location for new or first-time players.
+- Configurable location for new or first-time players.
 
 ---
 
